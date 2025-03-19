@@ -129,6 +129,4 @@ https://apps.apple.com/jp/app/恐竜王国/id6448652386
 
 ### AI文書作成
 
-### バイナリー電卓（アイディアのみ）
-
-doukidekinaihazu
+### バイナリー電卓（アイデアのみ）
