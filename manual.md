@@ -131,3 +131,4 @@ https://apps.apple.com/jp/app/恐竜王国/id6448652386
 
 ### バイナリー電卓（アイディアのみ）
 
+doukidekinaihazu
